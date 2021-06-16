@@ -1,2 +1,2 @@
 # MicrosoftGraphGetProfile
-Interactive authentication by using MSAL.NET
+Retrieving profile information by using the Microsoft Graph SDK
